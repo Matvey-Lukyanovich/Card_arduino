@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Uczet_kadrow.add1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAIACABABQQAAiJAAACAAAAAgAAgACBAAECBAQ=</HashCode>
+      <FileName>add1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.add2">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEBAAAACBAAACAAAAAAAABACAAAADAAA=</HashCode>
+      <FileName>add2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.add3">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACBAQACCBAAACAAgAAgAAAACQAAACBAA=</HashCode>
+      <FileName>add3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.add4">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAhAQAACBAUACAAAAEgAABACAAAACJAA=</HashCode>
+      <FileName>add4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.add5">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAABBAQAACBAAACAAiAAgAABACAAAADBAA=</HashCode>
+      <FileName>add5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.log">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAABAUAACAAACCAQgQAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.main">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>iQwGKIAQAKAhKB0IgAqJlEASIAc8cgaAkAAxIQEAIIQ=</HashCode>
+      <FileName>main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.main2">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>iQwGIIAQAKAhKJUIgAqJlEACIAM4ciaAkAAxIQEAIIQ=</HashCode>
+      <FileName>main2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.users">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAAAACAEAACABAAAAgAAAAAAQIAAUA=</HashCode>
+      <FileName>users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uczet_kadrow.Excel">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAGAAAAACAAAAAABAAAAAARAAAACEAAA=</HashCode>
+      <FileName>Excel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
